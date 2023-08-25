@@ -138,17 +138,27 @@ footer div {
     section {
         font-size: 1em;
     }
+
+    footer  div p{
+        font-size: .7em;
+    }
 }
 
 @media (min-width: 401px) and (max-width: 450px) {
     section {
         font-size: 1.4em;
     }
+    footer  div p{
+        font-size: .7em;
+    }
 }
 
 @media (min-width: 451px) and (max-width: 700px) {
     section {
         font-size: 1.7em;
+    }
+    footer  div p{
+        font-size: .7em;
     }
 }
 
