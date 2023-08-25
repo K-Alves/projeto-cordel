@@ -86,12 +86,17 @@ section div p {
 }
 
 #section-bg-01 {
-    background: url(../img/background001.jpg) center center no-repeat fixed;
+    background: url(../img/background001.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 
 #section-bg-02 {
-    background: url(../img/background002.jpg) center center no-repeat fixed;
+    background: url(../img/background002.jpg); background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 
